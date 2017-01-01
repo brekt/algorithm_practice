@@ -1,0 +1,23 @@
+{
+  "name": "algorithm_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brekt/algorithm_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brekt/algorithm_practice/issues"
+  },
+  "homepage": "https://github.com/brekt/algorithm_practice#readme",
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-google": "^0.7.1"
+  }
+}
